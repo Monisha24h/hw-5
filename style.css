@@ -1,0 +1,207 @@
+.top-header {
+	background: #fcfcf6;
+	overflow: hidden;
+}
+.top-content {
+	background: #000;
+	padding: 2px;
+}
+.top-content h5 {
+	margin-left: 54%;
+	color: #fff;
+}
+.top-content a {
+	color: #fff;
+	font-size: 24px;
+	padding: 10px;
+}
+.logo {
+	float: left;
+	margin-left: 14%;
+	padding: 7px 0 10px 0;
+}
+.main-menu {
+	margin-left: 43%;
+}
+.main-menu ul {
+	padding-top: 29px;
+}
+.main-menu ul li a {
+	font-size: 20px;
+	color: #161515;
+	text-transform: capitalize;
+}
+.main-menu ul li a:hover {
+	background: #000;
+	color: #fff;
+}
+.banner-area {
+	background-image: url(img/background.png);
+	position: relative;
+	background-size: cover;
+	height: 700px;
+}
+.welcome-message {
+	width: 36%;
+	background: #19161d85;
+	position: absolute;
+	top: 36%;
+	left: 8%;
+	color: #fff;
+	padding: 21px;
+	border: 2px solid #fff;
+}
+.welcome-message h2 {
+	font-size: 40px;
+	font-weight: bold;
+}
+.welcome-message h5 {
+	font-size: 24px;
+	padding-right: 42px;
+}
+.button {
+	float: left;
+	width: 205px;
+	text-align: center;
+	padding: 10px;
+	background: #fff;
+	margin-top: 7px;
+}
+.button a {
+	font-size: 20px;
+	padding: 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #000;
+}
+.c {
+	margin-left: 29px;
+}
+.button:hover {
+	background: #383838;
+	border: 1px solid #fff;
+}
+.button a:hover {
+	color: #fff;
+}
+.banner-text p {
+	width: 89%;
+	margin: 30px 0 30px 81px;
+	font-size: 19px;
+	line-height: 2;
+}
+/* remoding-service */
+.section-title {
+	text-align: center;
+	padding: 36px;
+}
+.section-title h2 {
+	font-size: 41px;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+.remoding-services {
+	width: 97%;
+	margin-left: 1.5%;
+}
+.remoding-image {
+	position: relative;
+}
+.remoding-image img {
+	width: 100%;
+}
+.remoding-button {
+	float: left;
+	width: 177px;
+	text-align: center;
+	padding: 4px;
+	background: #f5c819ab;
+	margin-top: 7px;
+	position: absolute;
+	bottom: 6%;
+	left: 9%;
+	border: 1px solid #fff;
+}
+.remoding-button a {
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 25px;
+}
+.option {
+	width: 61%;
+	margin-left: 22%;
+}
+.option a {
+	font-size: 24px;
+	color: #000;
+	text-decoration: none;
+}	
+/* textimonial */
+.testimonial {
+	padding: 34px 0;
+}
+.testimonail-text {
+	width: 30%;
+	text-align: center;
+	background: #f2f2f2;
+	padding: 16px;
+	border: 1px solid #adafb0;
+}
+.testimonail-text {
+	width: 32%;
+	text-align: center;
+	background: #f2f2f2;
+	padding: 16px;
+	border: 1px solid #adafb0;
+	margin-left: 33%;
+}
+.testimonail-text h2 {
+	font-weight: bold;
+}
+.testimonail-text p {
+	font-size: 22px;
+}
+.contact-us {
+	background: rebeccapurple;
+	overflow: hidden;
+	padding: 80px 0;
+}
+
+.float {
+	float: left;
+	margin-left: 115px;
+  }
+.contact-form {
+	margin-left: 20%;
+	overflow: hidden;
+}
+.input-wrapper input {
+	width: 100%;
+  }
+.input-wrapper {
+	width: 147%;
+  }
+.message-box textarea {
+	width: 146%;
+}
+/* footer-area */
+.top-footer{
+ text-align: center;
+}
+.top-footer h2 {
+	padding: 38px 0;
+}
+.footer-image img {
+	margin: 30px 25px;
+}
+.bottom-footer {
+	background: #000;
+}
+.bottom-footer p {
+	padding: 10px 0;
+	color: #fff;
+	text-align: center;
+	font-size: 15px;
+}
